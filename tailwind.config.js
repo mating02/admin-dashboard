@@ -10,7 +10,8 @@ module.exports = {
         'main' : '3fr 1fr'
       },
       gridTemplateRows: {
-        '3mm': 'repeat(3, min-content)'
+        '3mm': 'repeat(3, min-content)',
+        'header': 'repeat(2, min-content)'
       },
       fontFamily: {
         'roboto': ['Roboto', 'sans-serif']
