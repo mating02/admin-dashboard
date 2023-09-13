@@ -1,3 +1,25 @@
-.header > div {
-    border: 1px solid brown;
+.flex>svg {
+    width: clamp(.8rem, 1.2rem, 1.5rem);
+}
+
+.flex>.dashboard {
+    width: clamp(1.5rem, 2.2rem, 3rem);
+}
+
+.grid-rows-3mm>.flex {
+    padding: 1rem;
+    gap: .5rem;
+    font-size: 1.5rem;
+}
+
+.basics, .help {
+    font-size: .9rem;
+    display:grid;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+
+.basics>.flex, .help>.flex {
+    gap: .4rem;
 }

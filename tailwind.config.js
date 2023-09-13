@@ -12,6 +12,9 @@ module.exports = {
       gridTemplateRows: {
         '3mm': 'repeat(3, min-content)'
       },
+      fontFamily: {
+        'roboto': ['Roboto', 'sans-serif']
+      }
     },
   },
   plugins: [],

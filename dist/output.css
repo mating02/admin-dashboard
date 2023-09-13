@@ -666,6 +666,14 @@ video {
   padding: 0.5rem;
 }
 
+.font-roboto {
+  font-family: Roboto, sans-serif;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
