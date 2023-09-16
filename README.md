@@ -1,6 +1,6 @@
 # admin-dashboard
 building a dashboard using css grid for the most part
-Live: 
+Live: https://mating02.github.io/admin-dashboard/
 
 I do not own any of the images used in this project. This project is for learning purposes ONLY.
 
