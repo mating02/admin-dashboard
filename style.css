@@ -101,3 +101,9 @@ table {
     padding-top: .75rem;
 }
 
+.stripeGerman {
+    background-image: linear-gradient(to bottom, black 0%, black 33.33%, red 33.33%, red 66.67%, yellow 66.67%, yellow 100%);
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    grid-row: span 2 / span 2;
+}
