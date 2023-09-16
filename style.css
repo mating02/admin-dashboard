@@ -88,3 +88,16 @@ table {
 .col-start-2>svg {
     width: clamp(1rem, 1.5rem, 2rem);
 }
+
+.theBox {
+    border-bottom: .1rem solid rgb(165, 180, 196);
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+}
+.theBox .box1 {
+    padding-top: 0rem;
+}
+.theBox3 {
+    padding-top: .75rem;
+}
+

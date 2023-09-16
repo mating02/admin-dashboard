@@ -6,7 +6,7 @@ module.exports = {
       gridTemplateColumns: {
         'container': '1fr 5fr',
         'header' : '2fr 1fr',
-        'cards' : 'repeat(auto-fit, minmax(18rem, 1fr))',
+        'cards' : 'repeat(auto-fit, minmax(16rem, 1fr))',
         'main' : '3fr 1fr',
         'card': '1fr 25fr'
       },
